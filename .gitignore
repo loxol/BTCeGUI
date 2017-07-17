@@ -37,3 +37,5 @@ nosetests.xml
 
 # Project-specific
 BTCeGUI.zip
+
+BTCe\.ini
